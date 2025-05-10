@@ -11,7 +11,8 @@ This is my first Spring Boot application. It demonstrates how to accept URL para
 2. Run `mvn spring-boot:run` or use your IDE to run the application.
 3. Visit `http://localhost:8080/` for the main page.
 4. Visit `http://localhost:8080/greeting?name=YourName` for the greeting page.
-
+## Screenshots
+{./screenshotfortask1.jpg}
 
 
 
