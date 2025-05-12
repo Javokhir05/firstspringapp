@@ -12,7 +12,7 @@ This is my first Spring Boot application. It demonstrates how to accept URL para
 3. Visit `http://localhost:8080/` for the main page.
 4. Visit `http://localhost:8080/greeting?name=YourName` for the greeting page.
 ## Screenshots
-![Greeting Page](screenshotfortask1.jpg)
+![Greeting Page](./Screenshotfortask1.jpg)
 
 
 
